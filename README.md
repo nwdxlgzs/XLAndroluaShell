@@ -1,2 +1,1 @@
-# XLAndroluaShell
-用于给androlua+程序的lua文件加壳
+存储用户签名信息数据等，为身份认证提供依据。
